@@ -1,3 +1,4 @@
+import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Entrada from './pages/Entrada'
 import Desafios from './pages/Desafios'

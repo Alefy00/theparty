@@ -1,3 +1,5 @@
+import React from 'react';
+
 export default function ModalConfirmacao({ visivel, frase, onConfirmar, onCancelar }) {
   if (!visivel) return null
 
