@@ -3,13 +3,12 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-"scripts": {
-  "build": "npx vite build",
-  "dev": "vite",
-  "preview": "vite preview",
-  "lint": "eslint ."
-},
-
+  "scripts": {
+    "build": "npx vite build",
+    "dev": "vite",
+    "preview": "vite preview",
+    "lint": "eslint ."
+  },
   "dependencies": {
     "@supabase/supabase-js": "^2.52.1",
     "@tailwindcss/vite": "^4.1.11",
@@ -30,6 +29,6 @@
     "globals": "^16.3.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.11",
-    "vite": "^7.0.4"
+    "vite": "^7.0.6"
   }
 }
